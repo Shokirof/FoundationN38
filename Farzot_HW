@@ -1,0 +1,39 @@
+# import os
+# os.system("cls")
+# def show_age(n,m):
+#     print(f"Yoshingiz: {n-m} da! ")
+# n=int(input("Hozirgi yilni kiriting--> "))
+# m=int(input("Tug'ilgan yilingizni kriting--> "))
+# show_age(n,m)
+
+# import os
+# os.system("cls")
+# def return_of_sekund(n):
+#     print(f"Hour--> {n//3600}")
+#     print(f"Minut--> {n%3600/60}")
+#     print(f"Sekund--> {n%60}")
+# x=int(input("Vaqtni kiriting: "))
+# return_of_sekund(x)
+
+#import os
+#os.system("cls") 
+#def summa_of_numbers(ls):
+#     print(f"Summa of list {sum(ls)}")
+# x=list(map(int,input("List elementlarini kiriting--> ").split()))
+# summa_of_numbers(x)
+
+
+#import os
+#os.system("cls") 
+#def summa_olish(x,y):
+#    print(x+y)
+# n,m=map(int,input("Sonlarni kiritng--> ").split())
+# summa_olish(n,m)
+    
+
+#import os
+#os.system("cls")
+# def greeting(name):
+#     print(f"Salom hurmatli {name} siz bilan tanishganimdan hursandman) ")
+# ism=input("Ismni kiritingchi? ")
+# greeting(ism)
